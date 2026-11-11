@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.suo
+
+# Windows
+desktop.ini
