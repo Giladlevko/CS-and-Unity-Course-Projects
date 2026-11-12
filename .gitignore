@@ -12,3 +12,13 @@
 
 # Windows
 desktop.ini
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Bb]uild/
+[Bb]uilds/
+[Rr]ecordings/
